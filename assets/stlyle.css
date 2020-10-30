@@ -1,0 +1,32 @@
+{* {
+    margin: 0;
+    padding:0;
+}
+
+.header-container {
+    width: 100%;
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background: url(./images/background\ header.jpg)
+}
+.header-up {
+    width:90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 4 px #353651;
+}
+.header-up-left{}
+.header-up-left span{}
+.header-ul{}
+.header-ul li{}
+.header-container h1{
+    width: 100%; 
+}
+.header-bottom{}
+.header-bottom h1{}
+.header-bottom .header-text{}
+.header-bottom .header-button{}
