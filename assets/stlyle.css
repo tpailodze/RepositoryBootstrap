@@ -147,3 +147,18 @@ header {
     text-align: center;
 }
 
+.row #photos {
+    margin:0;
+    width:100%;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.social {
+    display: flex;
+    justify-content: flex-start;
+}
+.social img{
+    display: inline-block;
+}
